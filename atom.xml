@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://EleanorCallottWhitney.github.io/atom.xml" rel="self"/>
   <link href="http://EleanorCallottWhitney.github.io/"/>
-  <updated>2013-11-21T22:27:53-05:00</updated>
+  <updated>2013-11-21T22:36:59-05:00</updated>
   <id>http://EleanorCallottWhitney.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A new relationship to my computer]]></title>
+    <link href="http://EleanorCallottWhitney.github.io/blog/2013/11/21/a-new-relationship-to-my-computer/"/>
+    <updated>2013-11-21T22:32:00-05:00</updated>
+    <id>http://EleanorCallottWhitney.github.io/blog/2013/11/21/a-new-relationship-to-my-computer</id>
+    <content type="html"><![CDATA[<p>In terms of what I learned during the first week of class, the question is more like, “What didn’t I learn?” I feel like I have to rethink my entire relationship to my computer. As a writer my primary relationship to my computer is as a glorified word processor &ndash; the creation process happens in my head or on actual paper and gets documented on screen through the visual interface.</p>
+
+<p>Sure I blog and post on social media and futz around with html and css, but none of that demands a fundamental change in my work flow. Learning to use the terminal and command line tools made me realize there’s a whole different way of relating to this machine as a developer. It feels powerful but also intimidating &ndash; am I going to be able to make this machine do what I need it to do so that I can make the thing I want to make? I know the answer is yes, but I also know getting to that yes will take some time.</p>
+
+<p>I think the most important lesson I learned during the first week is the reminder of what it feels like to be a total beginner. I know there are mistakes I’m making now and processes I take very slowly (like initiating and adding to a git repository) that I hope, in a few weeks, will feel like old hat and just another part of my workflow. I’m really excited about using GitHub and while I was aware of it in the past, I did not fully comprehend how it worked or what a powerful tool it can be. I’m excited to start using it as part of my work flow as well.</p>
+
+<p>I have been reminded about just how accurate and exacting I need to be when typing commands in &ndash; I’ve always been a bad speller (though I do consider myself highly detail oriented) and am reminded that using command line (and coding) is all about accuracy. This is something I know I’m going to to have to work on.</p>
+
+<p>Overall, however, I feel like I already have a much stronger understanding of how developers work using the shell, different languages, and a version control system like Git and GitHub. It can be humbling to start at the very beginning as an adult, but I think it’s an important learning experience as well. I’m ready to learn more and see where I can take it.</p>
+]]></content>
+  </entry>
   
 </feed>
